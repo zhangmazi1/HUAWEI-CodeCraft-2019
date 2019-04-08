@@ -1,3 +1,10 @@
+# coding=utf-8
+# Author:yzn
+# Date:2019-4-5
+# Email:yangzhenningwy@163.com
+# 大家可以多多交流代码，有问题我及时更改
+
+
 import copy
 import numpy as np
 
